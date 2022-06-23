@@ -1,0 +1,32 @@
+header {
+background-color: #b2b2b2
+}
+
+h1 {
+color: #ffffff;
+text-align: center;
+text-transform: uppercase;
+}
+
+a {
+background-color: #c4c6c5;
+color: #040101;
+}
+
+main {
+background-color: #7f7f7f;
+}
+
+
+h2, p {
+background-color: #7f7f7f;
+}
+
+h2 {
+color: #0d0479;
+text-transform: uppercase;
+}
+
+aside {
+display: none;
+}
